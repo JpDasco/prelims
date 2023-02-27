@@ -1,0 +1,111 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<marvel_heroes>
+        <hero name="Spiderman">
+            <civilian name="Peter Parker">
+                <origin place="Queens, New york city, USA">
+                    <bio>With amazing spider-like abilities, teenage science whiz Peter Parker fights crime and dreams of becoming an Avenger as Spider-Man.</bio>
+                    <greatest_enemy>The Green Goblin</greatest_enemy>
+                    <power_source from="Radio active Spider">
+                        <abilities> 
+                            <ability>Agility</ability> 
+                            <ability>Awareness</ability>
+                            <ability>Web Shooter</ability>
+                            <ability>Wall Crawling</ability>
+                        </abilities>
+                    </power_source>
+                    <weaknesses>
+                        <weakness>Ethyl Chloride pesticide</weakness>
+                        <weakness>Low Buildings</weakness>
+                        <weakness>Disrupted Spider Sense</weakness>
+                    </weaknesses>
+                </origin>
+            </civilian>
+        </hero>
+        <hero name="Iron Man">
+            <civilian name="Tony Stark">
+                <origin place="Midtown Manhattan, New York City, USA">
+                    <bio>Inventor Tony Stark applies his genius for high-tech solutions to problems as Iron Man, the armored Avenger.</bio>
+                    <greatest_enemy>The Mandarin</greatest_enemy>
+                    <power_source from="Arc Reactor">
+                        <abilities> 
+                            <ability>Flight</ability> 
+                            <ability>Artificial Intelligence</ability>
+                            <ability>Armored Suit</ability>
+                            <ability>Array of Weapons</ability>
+                        </abilities>
+                    </power_source>
+                    <weaknesses>
+                        <weakness>>Dependence On Technology.</weakness>
+                        <weakness>Electronically powered heart</weakness>
+                        <weakness>Weakness For Women</weakness>
+                    </weaknesses>
+                </origin>
+            </civilian>
+        </hero>
+        <hero name="Captain America">
+            <civilian name="Steve Rogers">
+                <origin place="Brooklyn, New York City, USA">
+                    <bio>World War II Super-Soldier continues his fight in the present as an Avenger and untiring sentinel of liberty.</bio>
+                    <greatest_enemy>Red Skull</greatest_enemy>
+                    <power_source from="Super Soldier Serum">
+                        <abilities> 
+                            <ability>Vibranium Shield</ability> 
+                            <ability>Speed and Stamina</ability>
+                            <ability>Skilled Fighter</ability>
+                            <ability>Acrobat</ability>
+                        </abilities>
+                    </power_source>
+                    <weaknesses>
+                        <weakness>>No Major Ranged Attacks</weakness>
+                        <weakness>Vulnerable against bullets and knives</weakness>
+                        <weakness>Not Knowing tech</weakness>
+                    </weaknesses>
+                </origin>
+            </civilian>
+        </hero>
+        <hero name="Thor">
+            <civilian name="Thor Odinson">
+                <origin place="Asgard">
+                    <bio>The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike.</bio>
+                    <greatest_enemy>Loki</greatest_enemy>
+                    <power_source from="Golden Apples of Idunn">
+                        <abilities> 
+                            <ability>God of thunder</ability> 
+                            <ability>Summoning mjolnir</ability>
+                            <ability>Storm breaker and the bifrost</ability>
+                            <ability>Flight</ability>
+                        </abilities>
+                    </power_source>
+                    <weaknesses>
+                        <weakness>Short-tempered</weakness>
+                        <weakness>He Takes Some Enemies Too Lightly</weakness>
+                        <weakness>Sense of unworthiness</weakness>
+                    </weaknesses>
+                </origin>
+            </civilian>
+        </hero>
+        <hero name="Hulk">
+            <civilian name="Bruce Banner">
+                <origin place="Dayton, Ohio, USA">
+                    <bio>Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk.</bio>
+                    <greatest_enemy>Abomination</greatest_enemy>
+                    <power_source from="Gamma Rays">
+                        <abilities> 
+                            <ability>Super human strength</ability> 
+                            <ability>Long distance jumping</ability>
+                            <ability>Durability</ability>
+                            <ability>Regeneration</ability>
+                            </abilities>
+                    </power_source>
+                    <weaknesses>
+                        <weakness>Adamantium and vibranium</weakness>
+                        <weakness>Magic</weakness>
+                        <weakness>Black widow's calming technique</weakness>
+                    </weaknesses>
+                </origin>
+            </civilian>
+        </hero>
+</marvel_heroes>
+
+
