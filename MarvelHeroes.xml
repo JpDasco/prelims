@@ -6,18 +6,18 @@
                 <origin place="Queens, New york city, USA">
                     <bio>With amazing spider-like abilities, teenage science whiz Peter Parker fights crime and dreams of becoming an Avenger as Spider-Man.</bio>
                     <greatest_enemy>The Green Goblin</greatest_enemy>
-                    <power_source from="Radio active Spider">
+                    <power_source from="Radioactive Spider">
                         <abilities> 
                             <ability>Agility</ability> 
                             <ability>Awareness</ability>
-                            <ability>Web Shooter</ability>
-                            <ability>Wall Crawling</ability>
+                            <ability>Web shooter</ability>
+                            <ability>Wall crawling</ability>
                         </abilities>
                     </power_source>
                     <weaknesses>
-                        <weakness>Ethyl Chloride pesticide</weakness>
-                        <weakness>Low Buildings</weakness>
-                        <weakness>Disrupted Spider Sense</weakness>
+                        <weakness>Ethyl chloride pesticide</weakness>
+                        <weakness>Low buildings</weakness>
+                        <weakness>Disrupted spider sense</weakness>
                     </weaknesses>
                 </origin>
             </civilian>
@@ -30,15 +30,15 @@
                     <power_source from="Arc Reactor">
                         <abilities> 
                             <ability>Flight</ability> 
-                            <ability>Artificial Intelligence</ability>
-                            <ability>Armored Suit</ability>
-                            <ability>Array of Weapons</ability>
+                            <ability>Artificial intelligence</ability>
+                            <ability>Armored suit</ability>
+                            <ability>Array of weapons</ability>
                         </abilities>
                     </power_source>
                     <weaknesses>
-                        <weakness>>Dependence On Technology.</weakness>
+                        <weakness>>Dependence on technology.</weakness>
                         <weakness>Electronically powered heart</weakness>
-                        <weakness>Weakness For Women</weakness>
+                        <weakness>Weakness for women</weakness>
                     </weaknesses>
                 </origin>
             </civilian>
@@ -50,14 +50,14 @@
                     <greatest_enemy>Red Skull</greatest_enemy>
                     <power_source from="Super Soldier Serum">
                         <abilities> 
-                            <ability>Vibranium Shield</ability> 
-                            <ability>Speed and Stamina</ability>
-                            <ability>Skilled Fighter</ability>
+                            <ability>Vibranium shield</ability> 
+                            <ability>Speed and stamina</ability>
+                            <ability>Skilled fighter</ability>
                             <ability>Acrobat</ability>
                         </abilities>
                     </power_source>
                     <weaknesses>
-                        <weakness>>No Major Ranged Attacks</weakness>
+                        <weakness>>No major ranged Attacks</weakness>
                         <weakness>Vulnerable against bullets and knives</weakness>
                         <weakness>Not Knowing tech</weakness>
                     </weaknesses>
@@ -79,7 +79,7 @@
                     </power_source>
                     <weaknesses>
                         <weakness>Short-tempered</weakness>
-                        <weakness>He Takes Some Enemies Too Lightly</weakness>
+                        <weakness>He takes some enemies too lightly</weakness>
                         <weakness>Sense of unworthiness</weakness>
                     </weaknesses>
                 </origin>
