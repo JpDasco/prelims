@@ -8,8 +8,8 @@
                     <greatest_enemy>The Green Goblin</greatest_enemy>
                     <power_source from="Radioactive Spider">
                         <abilities> 
-                            <ability>Agility</ability> 
-                            <ability>Awareness</ability>
+                            <ability>Super human strength and agility</ability> 
+                            <ability>Spidey sense</ability>
                             <ability>Web shooter</ability>
                             <ability>Wall crawling</ability>
                         </abilities>
@@ -50,8 +50,8 @@
                     <greatest_enemy>Red Skull</greatest_enemy>
                     <power_source from="Super Soldier Serum">
                         <abilities> 
-                            <ability>Vibranium shield</ability> 
-                            <ability>Speed and stamina</ability>
+                            <ability>Can wield vibranium shield</ability> 
+                            <ability>Super human speed and stamina</ability>
                             <ability>Skilled fighter</ability>
                             <ability>Acrobat</ability>
                         </abilities>
@@ -72,8 +72,8 @@
                     <power_source from="Golden Apples of Idunn">
                         <abilities> 
                             <ability>God of thunder</ability> 
-                            <ability>Summoning mjolnir</ability>
-                            <ability>Storm breaker and the bifrost</ability>
+                            <ability>Summon mjolnir</ability>
+                            <ability>Wield Storm breaker and the bifrost</ability>
                             <ability>Flight</ability>
                         </abilities>
                     </power_source>
